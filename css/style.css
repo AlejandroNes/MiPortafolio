@@ -164,7 +164,7 @@ a.text-muted:hover, a.text-muted:focus {
 }
 
 .bg-light {
-  background-color: #f9fafd !important;
+  background-color: #f9fafd ;
 }
 
 .text-light {
