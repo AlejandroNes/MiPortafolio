@@ -352,7 +352,6 @@ a.text-light-yellow:hover, a.text-light-yellow:focus {
 .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.focus, .btn-outline-primary:not(:disabled):not(.disabled):active {
   background-color: #e54b4b;
   border-color: #e54b4b;
-  color: #ffffff !important;
   -webkit-box-shadow: 0 3px 5px 0 rgba(229, 75, 75, 0.3);
           box-shadow: 0 3px 5px 0 rgba(229, 75, 75, 0.3);
 }
@@ -1583,7 +1582,7 @@ p {
 }
 
 .bg-home {
-  padding: 260px 0;
+  padding: 150px 0;
   background-size: cover;
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
@@ -1743,7 +1742,7 @@ p {
 
 @media (max-width: 767px) {
   .bg-home, .bg-half {
-    padding: 150px 0;
+    padding: 120px 0;
     height: auto;
   }
   .bg-pages {
